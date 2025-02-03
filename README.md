@@ -1,5 +1,4 @@
 ## Hi, welcome to my page! ✨
-<img src="https://i.imgur.com/FVcz1Hf.png"/>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&labelColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black">
