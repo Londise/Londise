@@ -34,11 +34,10 @@ These projects enhanced my problem-solving skills and provided insights into rea
 
 ## Social 🤝
 - LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/fernandocch">https://www.linkedin.com/in/fernandocch</a>;
-- Web Site: <a target="_blank" href=""></a>;
 
-[<img height="30px" marginLeft="5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/frcelipe7/)
-[<img height="30px" marginLeft="5px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://frcelipe7.github.io/)
-[<img height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:feliperaphaelpara@gmail.com)
+[<img height="30px" marginLeft="5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/fernandocch/)
+[<img height="30px" marginLeft="5px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://.github.com/Londise/)
+[<img height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:fern.colq.huar461@gmail.com)
 
 <div>
     <h2>Technologies 🛠️</h2>
