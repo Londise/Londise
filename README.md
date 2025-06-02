@@ -27,18 +27,11 @@ I have a strong foundation in web development, particularly with JavaScript, whe
 These projects enhanced my problem-solving skills and provided insights into real-world software needs.
 
 ## Projects 💻
-- ; <br>
-  This is a project for the /site/); <br>
-  This AFMA static website was developed using HTML, CSS, and JavaScript.
-- 
+- Coming soon...
 
 ## Certifications 🎓
-- **Google Cloud Computing Foundations** - HARVARDX, 2022 - <a target="_blank" href="">See Credential</a>;
-- **English Certificate B2 Advanced** - EF SET, 2024 - <a target="_blank" href="">See Academic</a>;
+- **Google Cloud Computing Foundations** - Google, 2024 - <a target="_blank" href="">See Credential</a>;
 - **Software Engineering** - FIAP, 2024-2027;
-
-## Rewards 🏆
-
 
 ## Social 🤝
 - LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/fernandocch">https://www.linkedin.com/in/fernandocch</a>;
