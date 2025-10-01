@@ -26,7 +26,7 @@ I have a strong foundation in web development, particularly with JavaScript, whe
 These projects enhanced my problem-solving skills and provided insights into real-world software needs.
 
 ## Projects 💻
-- Coming soon...
+**DASA Kart**: Developed in collaboration with DASA Saúde to improve stock visibility within the company’s laboratory units. As a team, we designed an innovative solution inspired by Amazon’s Dash Cart, receiving positive feedback from the company.
 
 ## Certifications 🎓
 - **Google Cloud Computing Foundations** - Google, 2024 - <a target="_blank" href="">See Credential</a>;
