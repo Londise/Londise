@@ -16,7 +16,7 @@
 
 # Hello, I'm Fernando Carlos 👋
 
-As a Software Engineering student, my goal is to comprehend the concepts of software, understanding how it works and what's behind the concepts so i can deliver always great projects and products.
+As a Software Engineering student, my goal is to comprehend the concepts of software, understanding how it works and what's behind the concepts so I can create and deliver meaningful projects and products with quality.
 
 ## Stats 📊
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Londise&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Londise&layout=compact&theme=dark">
